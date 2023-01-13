@@ -1,0 +1,10 @@
+{
+  "url": "https://huggingface.co/anuragshas/whisper-small-bn",
+  "name": "whisper-small-bn",
+  "host": "huggingface.co",
+  "type": "small",
+  "cloneable": true,
+  "private": false,
+  "license": "apache-2.0",
+  "author": "Anurag Singh"
+}

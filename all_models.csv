@@ -1,0 +1,3 @@
+Model_Name,Model_Type,Wer,Size(MB)
+whisper_base_bn_sifat,base,46,261
+whisper_small_bn_anuragshas,small,18,970

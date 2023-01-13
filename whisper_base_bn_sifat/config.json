@@ -1,0 +1,10 @@
+{
+    "url": "https://github.com/shhossain/whisper_base_bn_sifat",
+    "name": "whisper-base-bn-sifat",
+    "type": "base",
+    "host": "github.com",
+    "cloneable": true,
+    "private": false,
+    "license": "apache-2.0",
+    "author": "Sifat"
+}
