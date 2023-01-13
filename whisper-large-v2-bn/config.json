@@ -1,0 +1,10 @@
+{
+  "url": "https://huggingface.co/anuragshas/whisper-large-v2-bn",
+  "name": "whisper-large-v2-bn",
+  "host": "huggingface.co",
+  "type": "large",
+  "cloneable": true,
+  "private": false,
+  "license": "apache-2.0",
+  "author": "Anurag Singh"
+}
