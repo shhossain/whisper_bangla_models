@@ -1,8 +1,8 @@
 {
-    "url": "https://github.com/shhossain/whisper_base_bn_sifat",
-    "name": "whisper-base-bn-sifat",
+    "url": "https://huggingface.co/shhossain/whisper-base-bn",
+    "name": "whisper-base-bn",
     "type": "base",
-    "host": "github.com",
+    "host": "huggingface.co",
     "cloneable": true,
     "private": false,
     "license": "apache-2.0",
